@@ -1,4 +1,4 @@
-# Amity International Model United Nations Conference website code
+# AMIMUN.IN Amity International Model United Nations Conference Website Code-2015
 
 This is the repository that contains most of the code for the http://amimun.in website.
 
@@ -17,4 +17,12 @@ Open Source Contribution and Special Thanks to people who helped directly or in-
    For more information, visit: http://lokeshdhakar.com/projects/lightbox2/
 5- Thanks
    - Scott Upton(uptonic.com), Peter-Paul Koch(quirksmode.com), and Thomas Fuchs(mir.aculo.us) for ideas, libs, and snippets.
-   - Artemy Tregubenko (arty.name) for cleanup and help in updating to latest proto-aculous in v2.05.
+
+This is an old repository, and been forced retrieved causing some data loss. Original Messages in Home Page is been purged and replaced by Lorem (dummy text).
+
+List of things which are removed or replace in lieu of damaged data
+- Conference Countdown
+- Message from Vice Chancellors, Founder & President
+- Original Message from Secetary General
+- Contact Number
+- Metadata and Personal Contact Details of Committee Members
